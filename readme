@@ -1,0 +1,15 @@
+
+
+Intall Node.js
+
+Verify the node version and npm version with 'node -v' 'npm -v'
+
+Use 'npm install --save -dev cypress' to install latest version
+
+Use 'npx cypress open' to configure and install cypress
+
+To excecute the scripts use 'npm run cypress:open' with headed mode and test runner
+
+To execute the scripts use 'npm run cypress:run' with headless mode
+
+
